@@ -2,9 +2,9 @@
 Phân chia công việc:
 + Phạm Công Minh: debug.h + getTime.h
 + Nguyễn Thế Nhật: kill.h + listDir.h
-+ Nguyễn Ngọc Tú: run_cg.h + runBg.h
++ Nguyễn Ngọc Tú: run_fg.h + runBg.h
 + Phan Ngọc Khải: runBg.h + stop.h
-+ Tiến Thành: run_cg.h + listDir.h
++ Tiến Thành: run_fg.h + listDir.h
 
 --> Nhiệm vụ chi tiết:
 Mỗi thành viên tìm hiểu từng dòng code chạy ntn ở trong các file header đã phân công (các hàm gọi win32 API).
